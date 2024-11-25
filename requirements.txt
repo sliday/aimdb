@@ -1,0 +1,19 @@
+# Core dependencies
+numpy>=2.0.0,<3.0.0
+Pillow>=10.0.0
+colorama>=0.4.6
+emoji>=2.2.0
+dspy-ai>=2.0.0
+openai>=1.0.0
+tqdm>=4.65.0
+
+# Audio processing
+simpleaudio>=1.0.4
+ffmpeg-python>=0.2.0
+
+# Text analysis
+nltk>=3.8.1
+textblob>=0.17.1
+
+# Async support
+aiohttp>=3.8.0
