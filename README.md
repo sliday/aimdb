@@ -1,6 +1,8 @@
 # AIMDB – AI-Powered Movie Analyzer 🎬
 
-An intelligent system that analyzes movies through both visual and audio content, generating detailed expert reviews and ratings using GPT-4o-mini for visual analysis and Claude 3.5 Sonnet for screenplay evaluation.
+An intelligent system that analyzes movies through both visual and audio content, generating detailed expert reviews and ratings using GPT-4o-mini for visual analysis and Claude 3.5 Sonnet for screenplay (transcribed via whisper API) evaluation.
+
+![CleanShot 2024-11-26 at 00 19 39@2x](https://github.com/user-attachments/assets/0f04918e-501e-4b45-86c0-288ca62d7efc)
 
 ## 🌟 Features
 
