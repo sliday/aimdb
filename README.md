@@ -191,19 +191,3 @@ You can modify:
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-The updated README provides:
-1. Clear installation instructions
-2. API key setup requirements
-3. Detailed usage guide
-4. Explanation of the dual-model approach (GPT-4o-mini + Claude)
-5. Output structure and expectations
-6. Cost considerations
-7. Customization options
-
-Would you like me to add any other specific details to the README?
